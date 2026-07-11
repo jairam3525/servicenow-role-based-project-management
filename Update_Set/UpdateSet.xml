@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-07-01 13:59:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<application_name>Project Management System</application_name>
+<application_scope>x_2056458_projec_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>ebda7569837903d0331153a6feaad344</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>3186cff583f183d0331153a6feaad371</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_f2ee756183b903d0331153a6feaad3c0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_2056458_projec_0_project_tasks</description><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:34</sys_created_on><sys_id>f2ee756183b903d0331153a6feaad3c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_f2ee756183b903d0331153a6feaad3c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:34</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1298839970</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>31868bb583f1c3d0331153a6feaad334</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db53cc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>f6ee75615eb903d057ffc79520f722c4</update_guid>
+<update_guid_history>f6ee75615eb903d057ffc79520f722c4:-1298839970</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_3bda7569837903d0331153a6feaad34e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2056458_projec_0.admin</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 13:49:54</sys_created_on><sys_id>3bda7569837903d0331153a6feaad34e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0.admin</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_user_role_3bda7569837903d0331153a6feaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 13:49:54</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-2114890060</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>31868bb583f1c3d0331153a6feaad339</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18cb25a50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table/>
+<target_name>x_2056458_projec_0.admin</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>37dab5699f7903d0b671210577c3640e</update_guid>
+<update_guid_history>37dab5699f7903d0b671210577c3640e:-2114890060</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_5dd386e983b903d0331153a6feaad3d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:30:42</sys_created_on><sys_id>5dd386e983b903d0331153a6feaad3d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Project_Manager</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">dfc386e983b903d0331153a6feaad3c7</sys_security_acl><sys_update_name>sys_security_acl_role_5dd386e983b903d0331153a6feaad3d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:30:42</sys_updated_on><sys_user_role display_value="Project_Manager" name="Project_Manager">c115c91583358f90331153a6feaad364</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-242686527</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>35868bb583f1c3d0331153a6feaad335</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18f0805b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>dfc386e983b903d0331153a6feaad3c7</table>
+<target_name>.Project_Manager</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>e134caa9a2b903d0aa8889dac88f50b1</update_guid>
+<update_guid_history>e134caa9a2b903d0aa8889dac88f50b1:-242686527</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_af808a2583b903d0331153a6feaad38a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:26:31</sys_created_on><sys_id>af808a2583b903d0331153a6feaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Project_Manager</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">3d50c22583b903d0331153a6feaad369</sys_security_acl><sys_update_name>sys_security_acl_role_af808a2583b903d0331153a6feaad38a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:26:31</sys_updated_on><sys_user_role display_value="Project_Manager" name="Project_Manager">c115c91583358f90331153a6feaad364</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1336855000</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>39868bb583f1c3d0331153a6feaad336</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18ecad880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>3d50c22583b903d0331153a6feaad369</table>
+<target_name>.Project_Manager</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>d043c2a96bb903d0372bbed8f133dab4</update_guid>
+<update_guid_history>d043c2a96bb903d0372bbed8f133dab4:1336855000</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_d6ee756183b903d0331153a6feaad366</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Project Tasks">5aee756183b903d0331153a6feaad360</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Project Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_2056458_projec_0_project_tasks</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_2056458_projec_0.project_tasks_user</roles><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d6ee756183b903d0331153a6feaad366</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_overrides/><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_app_module_d6ee756183b903d0331153a6feaad366</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:32</sys_updated_on><timeline_page/><title>Project Tasks</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1805806011</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>3986cff583f183d0331153a6feaad372</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db4c580000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>Project Tasks</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>1eee75618eb903d05f6375d9e5662069</update_guid>
+<update_guid_history>1eee75618eb903d05f6375d9e5662069:-1805806011</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_9bb902e583f903d0331153a6feaad314</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;applies_to/&gt;&lt;condition/&gt;&lt;controlled_by_refs/&gt;&lt;decision_type&gt;allow&lt;/decision_type&gt;&lt;description/&gt;&lt;local_or_existing&gt;Existing&lt;/local_or_existing&gt;&lt;name&gt;x_2056458_projec_0_project_tasks&lt;/name&gt;&lt;operation display_value="write"&gt;write&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[// Allows the team member to write to the record ONLY if it is assigned to them
+if (current.assigned_to == gs.getUserID()) {
+    answer = true;
+} else {
+    answer = false;
+}]]&gt;&lt;/script&gt;&lt;security_attribute/&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-30 14:58:19&lt;/sys_created_on&gt;&lt;sys_id&gt;9bb902e583f903d0331153a6feaad314&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_2056458_projec_0_project_tasks&lt;/sys_name&gt;&lt;sys_package display_value="Project Management System" source="x_2056458_projec_0"&gt;d7da3569837903d0331153a6feaad3d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Management System"&gt;d7da3569837903d0331153a6feaad3d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_9bb902e583f903d0331153a6feaad314&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-30 14:58:19&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-609094938</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>3d868bb583f1c3d0331153a6feaad332</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f1909ca430000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c28a0a2906f903d0ef1c1f4601adc788</update_guid>
+<update_guid_history>c28a0a2906f903d0ef1c1f4601adc788:-609094938</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_e7738e6183b903d0331153a6feaad338</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:28:47</sys_created_on><sys_id>e7738e6183b903d0331153a6feaad338</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Project_Manager</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">4a730aa983b903d0331153a6feaad355</sys_security_acl><sys_update_name>sys_security_acl_role_e7738e6183b903d0331153a6feaad338</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:28:47</sys_updated_on><sys_user_role display_value="Project_Manager" name="Project_Manager">c115c91583358f90331153a6feaad364</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>519823367</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>3d868bb583f1c3d0331153a6feaad337</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18eebf3b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>4a730aa983b903d0331153a6feaad355</table>
+<target_name>.Project_Manager</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6dc306e97db903d0c5b1a3c132d3e1ea</update_guid>
+<update_guid_history>6dc306e97db903d0c5b1a3c132d3e1ea:519823367</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_22ee756183b903d0331153a6feaad3b0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_2056458_projec_0_project_tasks</description><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:34</sys_created_on><sys_id>22ee756183b903d0331153a6feaad3b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_22ee756183b903d0331153a6feaad3b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:34</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>127649242</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>3d86cff583f183d0331153a6feaad373</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db52b90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>36ee756184b903d0023380eac305e0b4</update_guid>
+<update_guid_history>36ee756184b903d0023380eac305e0b4:127649242</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_a856462183f903d0331153a6feaad37c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow create for state in x_2056458_projec_0_project_tasks, for users with role Team_Member.</description><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks.state</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:47:45</sys_created_on><sys_id>a856462183f903d0331153a6feaad37c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks.state</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_a856462183f903d0331153a6feaad37c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:49:25</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1617056744</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>71868bb583f1c3d0331153a6feaad333</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f1901a3ba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks.state</table>
+<target_name>x_2056458_projec_0_project_tasks.state</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>77780a25f7f903d053501ee3ca3d4a99</update_guid>
+<update_guid_history>77780a25f7f903d053501ee3ca3d4a99:1617056744,13180ee173f903d00fec33f226ef9e6d:-1326954594</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_16ee756183b903d0331153a6feaad36c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Project Tasks</name><order/><roles>x_2056458_projec_0.project_tasks_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>16ee756183b903d0331153a6feaad36c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_overrides/><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_ui_application_16ee756183b903d0331153a6feaad36c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:33</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>-1375620347</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>71868bb583f1c3d0331153a6feaad338</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db4e8d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table/>
+<target_name>Project Tasks</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>a6ee7561d6b903d0cc59a7c0ec8cf07b</update_guid>
+<update_guid_history>a6ee7561d6b903d0cc59a7c0ec8cf07b:-1375620347</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3d50c22583b903d0331153a6feaad369</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:26:31</sys_created_on><sys_id>3d50c22583b903d0331153a6feaad369</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_3d50c22583b903d0331153a6feaad369</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:26:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1326954594</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>7186cff583f183d0331153a6feaad374</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18ecaf3f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a443c2a903b903d0593634ab31c053ba</update_guid>
+<update_guid_history>a443c2a903b903d0593634ab31c053ba:-1326954594</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_2505caa983b903d0331153a6feaad3b7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:36:34</sys_created_on><sys_id>2505caa983b903d0331153a6feaad3b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Project_Manager</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">5bf4ca6d83b903d0331153a6feaad3f0</sys_security_acl><sys_update_name>sys_security_acl_role_2505caa983b903d0331153a6feaad3b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:36:34</sys_updated_on><sys_user_role display_value="Project_Manager" name="Project_Manager">c115c91583358f90331153a6feaad364</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1793935288</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>75868bb583f1c3d0331153a6feaad334</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18f5e06b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>5bf4ca6d83b903d0331153a6feaad3f0</table>
+<target_name>.Project_Manager</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>e3850eade3b903d0cd81afcb7f49e0ee</update_guid>
+<update_guid_history>e3850eade3b903d0cd81afcb7f49e0ee:-1793935288</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_46ee7129837903d0331153a6feaad3ec</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2056458_projec_0.project_tasks_user</name><scoped_admin>false</scoped_admin><suffix>project_tasks_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:32</sys_created_on><sys_id>46ee7129837903d0331153a6feaad3ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0.project_tasks_user</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_user_role_46ee7129837903d0331153a6feaad3ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:32</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-668757399</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>75868bb583f1c3d0331153a6feaad339</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db4a550000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table/>
+<target_name>x_2056458_projec_0.project_tasks_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>c6ee756150b903d03fbc4d532fe3f558</update_guid>
+<update_guid_history>c6ee756150b903d03fbc4d532fe3f558:-668757399</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_5aee756183b903d0331153a6feaad360</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Project Tasks</name><order>100</order><roles>x_2056458_projec_0.project_tasks_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5aee756183b903d0331153a6feaad360</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_overrides/><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_app_application_5aee756183b903d0331153a6feaad360</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:32</sys_updated_on><title>Project Tasks</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1588539048</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>7586cff583f183d0331153a6feaad371</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db4ba40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table/>
+<target_name>Project Tasks</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>d6ee7561c6b903d0595f4409f8fd4e64</update_guid>
+<update_guid_history>d6ee7561c6b903d0595f4409f8fd4e64:-1588539048</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_61358ee983b903d0331153a6feaad355</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:36:34</sys_created_on><sys_id>61358ee983b903d0331153a6feaad355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Team_Member</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">5bf4ca6d83b903d0331153a6feaad3f0</sys_security_acl><sys_update_name>sys_security_acl_role_61358ee983b903d0331153a6feaad355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:36:34</sys_updated_on><sys_user_role display_value="Team_Member" name="Team_Member">4845cd1583358f90331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1587975889</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>79868bb583f1c3d0331153a6feaad335</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18f5e10e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>5bf4ca6d83b903d0331153a6feaad3f0</table>
+<target_name>.Team_Member</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a3854ead44b903d0bd1d60dbaf996527</update_guid>
+<update_guid_history>a3854ead44b903d0bd1d60dbaf996527:1587975889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_b2ee756183b903d0331153a6feaad3b6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:34</sys_created_on><sys_id>b2ee756183b903d0331153a6feaad3b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="x_2056458_projec_0_project_tasks">22ee756183b903d0331153a6feaad3b0</sys_security_acl><sys_update_name>sys_security_acl_role_b2ee756183b903d0331153a6feaad3b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:34</sys_updated_on><sys_user_role display_value="x_2056458_projec_0.project_tasks_user" name="x_2056458_projec_0.project_tasks_user">46ee7129837903d0331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1709173730</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>7d868bb583f1c3d0331153a6feaad336</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db53740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>b2ee7561c3b903d00698663b855c89be</update_guid>
+<update_guid_history>b2ee7561c3b903d00698663b855c89be:-1709173730</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_da5efded837903d0331153a6feaad3c9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><filter_extension/><is_data_interface>false</is_data_interface><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>Project Tasks</label><live_feed_enabled>false</live_feed_enabled><name>x_2056458_projec_0_project_tasks</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">e4f89235086003100a22e9371c04a489</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:32</sys_created_on><sys_id>da5efded837903d0331153a6feaad3c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_db_object_da5efded837903d0331153a6feaad3c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:32</sys_updated_on><update_access>false</update_access><user_role display_value="x_2056458_projec_0.project_tasks_user" name="x_2056458_projec_0.project_tasks_user">46ee7129837903d0331153a6feaad3ec</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-945259547</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>7d86cff583f183d0331153a6feaad372</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db5b280000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>Project Tasks</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>93eeb5618eb903d00fb1bda6dced3658</update_guid>
+<update_guid_history>93eeb5618eb903d00fb1bda6dced3658:-945259547</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_5bf4ca6d83b903d0331153a6feaad3f0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;applies_to/&gt;&lt;condition/&gt;&lt;controlled_by_refs/&gt;&lt;decision_type&gt;allow&lt;/decision_type&gt;&lt;description/&gt;&lt;local_or_existing&gt;Existing&lt;/local_or_existing&gt;&lt;name&gt;x_2056458_projec_0_project_tasks&lt;/name&gt;&lt;operation display_value="read"&gt;read&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[if (gs.hasRole('u_project_manager')) {
+    answer = true;
+} else if (gs.hasRole('u_team_member') &amp;&amp; current.u_assigned_to == gs.getUserID()) {
+    answer = true;
+} else {
+    answer = false;
+}]]&gt;&lt;/script&gt;&lt;security_attribute/&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-30 14:36:34&lt;/sys_created_on&gt;&lt;sys_id&gt;5bf4ca6d83b903d0331153a6feaad3f0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_2056458_projec_0_project_tasks&lt;/sys_name&gt;&lt;sys_package display_value="Project Management System" source="x_2056458_projec_0"&gt;d7da3569837903d0331153a6feaad3d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Management System"&gt;d7da3569837903d0331153a6feaad3d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_5bf4ca6d83b903d0331153a6feaad3f0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-30 14:36:34&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1534214018</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b1868bb583f1c3d0331153a6feaad332</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18f5e30d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>f7854eadc9b903d0d917adfb76a32a2d</update_guid>
+<update_guid_history>f7854eadc9b903d0d917adfb76a32a2d:1534214018</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_b6ee756183b903d0331153a6feaad3ef</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:35</sys_created_on><sys_id>b6ee756183b903d0331153a6feaad3ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="x_2056458_projec_0_project_tasks">b6ee756183b903d0331153a6feaad3d0</sys_security_acl><sys_update_name>sys_security_acl_role_b6ee756183b903d0331153a6feaad3ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:35</sys_updated_on><sys_user_role display_value="x_2056458_projec_0.project_tasks_user" name="x_2056458_projec_0.project_tasks_user">46ee7129837903d0331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>146119244</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b1868bb583f1c3d0331153a6feaad337</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db56770000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>7eeeb56139b903d094119f831eb18d03</update_guid>
+<update_guid_history>7eeeb56139b903d094119f831eb18d03:146119244</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056458_projec_0_project_tasks_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_2056458_projec_0_project_tasks"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes&gt;enforce_dot_walk_cross_scope_access=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_2056458_projec_0_project_tasks&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-30 14:07:35&lt;/sys_created_on&gt;&lt;sys_id&gt;cbeeb56183b903d0331153a6feaad305&lt;/sys_id&gt;&lt;sys_name&gt;x_2056458_projec_0_project_tasks&lt;/sys_name&gt;&lt;sys_package display_value="Project Management System" source="x_2056458_projec_0"&gt;d7da3569837903d0331153a6feaad3d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Management System"&gt;d7da3569837903d0331153a6feaad3d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056458_projec_0_project_tasks_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-30 14:07:35&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>569790446</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b186cff583f183d0331153a6feaad373</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db5ad20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>Project Tasks</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>9beeb56156b903d094ca078b7db61b51</update_guid>
+<update_guid_history>9beeb56156b903d094ca078b7db61b51:569790446</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_b6ee756183b903d0331153a6feaad3d0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_2056458_projec_0_project_tasks</description><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:35</sys_created_on><sys_id>b6ee756183b903d0331153a6feaad3d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_b6ee756183b903d0331153a6feaad3d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:35</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1188629360</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b5868bb583f1c3d0331153a6feaad333</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db55f60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>3aee75610bb903d007d1cd85accccfed</update_guid>
+<update_guid_history>3aee75610bb903d007d1cd85accccfed:1188629360</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_a6ee756183b903d0331153a6feaad37d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Project Tasks">16ee756183b903d0331153a6feaad36c</application><filter/><name>Project Tasks</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_2056458_projec_0.project_tasks_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a6ee756183b903d0331153a6feaad37d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_ui_module_a6ee756183b903d0331153a6feaad37d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:33</sys_updated_on><table>x_2056458_projec_0_project_tasks</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>1391233890</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b5868bb583f1c3d0331153a6feaad338</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db4f3d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>Project Tasks</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>a2ee756150b903d0b952c37cf7147680</update_guid>
+<update_guid_history>a2ee756150b903d0b952c37cf7147680:1391233890</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_4a730aa983b903d0331153a6feaad355</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:28:47</sys_created_on><sys_id>4a730aa983b903d0331153a6feaad355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_4a730aa983b903d0331153a6feaad355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:28:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-482966162</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b586cff583f183d0331153a6feaad374</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18eebf870000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>61c346e975b903d03ea635f15b622b61</update_guid>
+<update_guid_history>61c346e975b903d03ea635f15b622b61:-482966162</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_2aee756183b903d0331153a6feaad3a2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:33</sys_created_on><sys_id>2aee756183b903d0331153a6feaad3a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="x_2056458_projec_0_project_tasks">6aee756183b903d0331153a6feaad382</sys_security_acl><sys_update_name>sys_security_acl_role_2aee756183b903d0331153a6feaad3a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:33</sys_updated_on><sys_user_role display_value="x_2056458_projec_0.project_tasks_user" name="x_2056458_projec_0.project_tasks_user">46ee7129837903d0331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1682641191</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>b9868bb583f1c3d0331153a6feaad334</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db521d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>eaee7561e7b903d0d69ce149871389ad</update_guid>
+<update_guid_history>eaee7561e7b903d0d69ce149871389ad:1682641191</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_76ee756183b903d0331153a6feaad3c6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:34</sys_created_on><sys_id>76ee756183b903d0331153a6feaad3c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="x_2056458_projec_0_project_tasks">f2ee756183b903d0331153a6feaad3c0</sys_security_acl><sys_update_name>sys_security_acl_role_76ee756183b903d0331153a6feaad3c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:34</sys_updated_on><sys_user_role display_value="x_2056458_projec_0.project_tasks_user" name="x_2056458_projec_0.project_tasks_user">46ee7129837903d0331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-469565805</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>bd868bb583f1c3d0331153a6feaad335</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db54450000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks.x_2056458_projec_0.project_tasks_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>76ee7561f7b903d0a125f14f029bb5ce</update_guid>
+<update_guid_history>76ee7561f7b903d0a125f14f029bb5ce:-469565805</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_98988a2583f903d0331153a6feaad3d9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:50:33</sys_created_on><sys_id>98988a2583f903d0331153a6feaad3d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Team_Member</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">5a884a2583f903d0331153a6feaad3e9</sys_security_acl><sys_update_name>sys_security_acl_role_98988a2583f903d0331153a6feaad3d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:50:33</sys_updated_on><sys_user_role display_value="Team_Member" name="Team_Member">4845cd1583358f90331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1484921270</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f1868bb583f1c3d0331153a6feaad336</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f1902b03f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>5a884a2583f903d0331153a6feaad3e9</table>
+<target_name>.Team_Member</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>24c84265a9f903d003c8543cdd3f738a</update_guid>
+<update_guid_history>24c84265a9f903d003c8543cdd3f738a:1484921270</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_d7da3569837903d0331153a6feaad3d7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>SNS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Project Management System</name><package_json/><package_resolver_version>1.0.0</package_resolver_version><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_2056458_projec_0</scope><scoped_administration>false</scoped_administration><short_description/><source>x_2056458_projec_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 13:49:52</sys_created_on><sys_id>d7da3569837903d0331153a6feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 13:49:52</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=d7da3569837903d0331153a6feaad3d7"/></record_update>]]></payload>
+<payload_hash>-1836452291</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f186cff583f183d0331153a6feaad372</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18cb21230000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table/>
+<target_name>Project Management System</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>63da7569a87903d011648c5d49fd984c</update_guid>
+<update_guid_history>63da7569a87903d011648c5d49fd984c:-1836452291</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_6aee756183b903d0331153a6feaad382</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on x_2056458_projec_0_project_tasks</description><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:33</sys_created_on><sys_id>6aee756183b903d0331153a6feaad382</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_6aee756183b903d0331153a6feaad382</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:33</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>597331086</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f5868bb583f1c3d0331153a6feaad332</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db4fe00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>e6ee756138b903d0af26d57aea1c77a0</update_guid>
+<update_guid_history>e6ee756138b903d0af26d57aea1c77a0:597331086</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_cf56862183f903d0331153a6feaad3ab</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:47:45</sys_created_on><sys_id>cf56862183f903d0331153a6feaad3ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Team_Member</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">a856462183f903d0331153a6feaad37c</sys_security_acl><sys_update_name>sys_security_acl_role_cf56862183f903d0331153a6feaad3ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:47:45</sys_updated_on><sys_user_role display_value="Team_Member" name="Team_Member">4845cd1583358f90331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1274189601</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f5868bb583f1c3d0331153a6feaad337</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f19001c600000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>a856462183f903d0331153a6feaad37c</table>
+<target_name>.Team_Member</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>5f180ee1a1f903d03ce0b50f96167f66</update_guid>
+<update_guid_history>5f180ee1a1f903d03ce0b50f96167f66:1274189601</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056458_projec_0_project_tasks__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Project Tasks" language="en" table="x_2056458_projec_0_project_tasks"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Project Tasks</label><language>en</language><name>x_2056458_projec_0_project_tasks</name><plural>Project Tasks</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:07:35</sys_created_on><sys_id>8beeb56183b903d0331153a6feaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_documentation_x_2056458_projec_0_project_tasks__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:07:35</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1504516432</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f586cff583f183d0331153a6feaad373</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18db5b000000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>Project Tasks</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>9feeb56162b903d01ff46eaec7d1b554</update_guid>
+<update_guid_history>9feeb56162b903d01ff46eaec7d1b554:-1504516432</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_dfc386e983b903d0331153a6feaad3c7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:30:42</sys_created_on><sys_id>dfc386e983b903d0331153a6feaad3c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_dfc386e983b903d0331153a6feaad3c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:30:42</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-735656320</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f9868bb583f1c3d0331153a6feaad333</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18f080dc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks</table>
+<target_name>x_2056458_projec_0_project_tasks</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a934c22d66b903d08a7e40165071e8b7</update_guid>
+<update_guid_history>a934c22d66b903d08a7e40165071e8b7:-735656320</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_33dab569837903d0331153a6feaad313</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2056458_projec_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 13:49:54</sys_created_on><sys_id>33dab569837903d0331153a6feaad313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0.user</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_user_role_33dab569837903d0331153a6feaad313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 13:49:54</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-673913196</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f9868bb583f1c3d0331153a6feaad338</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f18cb26110000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table/>
+<target_name>x_2056458_projec_0.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>7bdab569487903d09edbe86eae634323</update_guid>
+<update_guid_history>7bdab569487903d09edbe86eae634323:-673913196</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_5a884a2583f903d0331153a6feaad3e9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2056458_projec_0_project_tasks.work_notes</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:50:34</sys_created_on><sys_id>5a884a2583f903d0331153a6feaad3e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056458_projec_0_project_tasks.work_notes</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_update_name>sys_security_acl_5a884a2583f903d0331153a6feaad3e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:50:34</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>81720814</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>f986cff583f183d0331153a6feaad374</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f1902b0c80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>x_2056458_projec_0_project_tasks.work_notes</table>
+<target_name>x_2056458_projec_0_project_tasks.work_notes</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>68c842658bf903d0c2c2a65a0abc8d90</update_guid>
+<update_guid_history>68c842658bf903d0c2c2a65a0abc8d90:81720814</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_3dc9ca2583f903d0331153a6feaad32c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-30 14:58:19</sys_created_on><sys_id>3dc9ca2583f903d0331153a6feaad32c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Team_Member</sys_name><sys_package display_value="Project Management System" source="x_2056458_projec_0">d7da3569837903d0331153a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="Project Management System">d7da3569837903d0331153a6feaad3d7</sys_scope><sys_security_acl display_value="">9bb902e583f903d0331153a6feaad314</sys_security_acl><sys_update_name>sys_security_acl_role_3dc9ca2583f903d0331153a6feaad32c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-30 14:58:19</sys_updated_on><sys_user_role display_value="Team_Member" name="Team_Member">4845cd1583358f90331153a6feaad3ec</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1100542191</payload_hash>
+<remote_update_set display_value="Default">3186cff583f183d0331153a6feaad371</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-01 13:58:55</sys_created_on>
+<sys_id>fd868bb583f1c3d0331153a6feaad334</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f1909c9cc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-01 13:58:55</sys_updated_on>
+<table>9bb902e583f903d0331153a6feaad314</table>
+<target_name>.Team_Member</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>4a8a8e25def903d052f81312de15f20f</update_guid>
+<update_guid_history>4a8a8e25def903d052f81312de15f20f:-1100542191</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
