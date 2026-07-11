@@ -4,7 +4,7 @@
 ![ACL](https://img.shields.io/badge/Security-Access_Control-blue?style=for-the-badge)
 ![Flow Designer](https://img.shields.io/badge/Automation-Flow_Designer-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 ## 📖 Project Overview
 
